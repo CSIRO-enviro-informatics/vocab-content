@@ -1,23 +1,20 @@
-### For changes to existing content - 
-### URI of the item that needs changing (if applicable)
+### To change an existing term or vocabulary
 
-http://
+http://{URI of the term or vocabulary that needs changing}
 
-### Description of issue or proposed change
-
-
-
-### To add a new entry
-### Name of new entry
+{Description of issue or proposed change}
 
 
 
-### Definition of new entry
+### To add a new term or vocabulary}
+
+{Name of new term or vocabulary}
+
+{Definition of new term, or description of vocabulary}
 
 
 
 ### All cases
-### links to web-pages that support the proposed change
 
-http://
-http://
+http://{link to supporting material}
+http://{link to more supporting material}
