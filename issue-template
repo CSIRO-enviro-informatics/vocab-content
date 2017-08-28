@@ -1,6 +1,6 @@
 ### Change to an existing term or vocabulary
 
-http://{URI of the term or vocabulary that needs changing}
+http://{Link to the term or vocabulary that needs changing}
 
 {Description of issue or proposed change}
 
@@ -11,6 +11,12 @@ http://{URI of the term or vocabulary that needs changing}
 {Name of new term or vocabulary}
 
 {Definition of new term, or description of vocabulary}
+
+
+
+### Another matter related to vocabulary content and management
+
+{Write it here}
 
 
 
